@@ -1,0 +1,4 @@
+[server]
+websocketCompression = false
+enableCORS = false
+enableXsrfProtection = true
