@@ -2,3 +2,4 @@
 websocketCompression = false
 enableCORS = false
 enableXsrfProtection = true
+fileWatcherType = "poll"
